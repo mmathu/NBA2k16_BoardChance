@@ -1,0 +1,10 @@
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\bin\Debug\calcMYNBA2K16.exe.config
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\bin\Debug\calcMYNBA2K16.exe
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\bin\Debug\calcMYNBA2K16.pdb
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\obj\Debug\calcMYNBA2K16.csprojResolveAssemblyReference.cache
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\obj\Debug\calcMYNBA2K16.exe
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\obj\Debug\calcMYNBA2K16.pdb
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\bin\Debug\calcMYNBA2K16.exe.manifest
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\bin\Debug\calcMYNBA2K16.application
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\obj\Debug\calcMYNBA2K16.exe.manifest
+C:\Users\Myoran\Desktop\Projects\mynbacalc\calcMYNBA2K16\calcMYNBA2K16\obj\Debug\calcMYNBA2K16.application
